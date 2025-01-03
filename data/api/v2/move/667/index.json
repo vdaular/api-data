@@ -572,6 +572,10 @@
             "url": "/api/v2/pokemon/214/"
         },
         {
+            "name": "teddiursa",
+            "url": "/api/v2/pokemon/216/"
+        },
+        {
             "name": "ursaring",
             "url": "/api/v2/pokemon/217/"
         },
@@ -646,6 +650,10 @@
         {
             "name": "torterra",
             "url": "/api/v2/pokemon/389/"
+        },
+        {
+            "name": "munchlax",
+            "url": "/api/v2/pokemon/446/"
         },
         {
             "name": "hippopotas",
@@ -840,7 +848,7 @@
             "url": "/api/v2/pokemon/901/"
         },
         {
-            "name": "oinkologne",
+            "name": "oinkologne-male",
             "url": "/api/v2/pokemon/916/"
         },
         {
@@ -972,6 +980,33 @@
             "version_group": {
                 "name": "sword-shield",
                 "url": "/api/v2/version-group/20/"
+            }
+        },
+        {
+            "machine": {
+                "url": "/api/v2/machine/1891/"
+            },
+            "version_group": {
+                "name": "scarlet-violet",
+                "url": "/api/v2/version-group/25/"
+            }
+        },
+        {
+            "machine": {
+                "url": "/api/v2/machine/1954/"
+            },
+            "version_group": {
+                "name": "the-teal-mask",
+                "url": "/api/v2/version-group/26/"
+            }
+        },
+        {
+            "machine": {
+                "url": "/api/v2/machine/2065/"
+            },
+            "version_group": {
+                "name": "the-indigo-disk",
+                "url": "/api/v2/version-group/27/"
             }
         }
     ],

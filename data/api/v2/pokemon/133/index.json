@@ -812,6 +812,17 @@
                         "url": "/api/v2/move-learn-method/1/"
                     },
                     "version_group": {
+                        "name": "legends-arceus",
+                        "url": "/api/v2/version-group/24/"
+                    }
+                },
+                {
+                    "level_learned_at": 1,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "/api/v2/move-learn-method/1/"
+                    },
+                    "version_group": {
                         "name": "scarlet-violet",
                         "url": "/api/v2/version-group/25/"
                     }
@@ -1333,6 +1344,17 @@
                     "version_group": {
                         "name": "brilliant-diamond-and-shining-pearl",
                         "url": "/api/v2/version-group/23/"
+                    }
+                },
+                {
+                    "level_learned_at": 43,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "/api/v2/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "legends-arceus",
+                        "url": "/api/v2/version-group/24/"
                     }
                 },
                 {
@@ -2756,6 +2778,17 @@
                     }
                 },
                 {
+                    "level_learned_at": 6,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "/api/v2/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "legends-arceus",
+                        "url": "/api/v2/version-group/24/"
+                    }
+                },
+                {
                     "level_learned_at": 10,
                     "move_learn_method": {
                         "name": "level-up",
@@ -2857,6 +2890,17 @@
                     "version_group": {
                         "name": "xd",
                         "url": "/api/v2/version-group/13/"
+                    }
+                },
+                {
+                    "level_learned_at": 25,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "/api/v2/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "legends-arceus",
+                        "url": "/api/v2/version-group/24/"
                     }
                 }
             ]
@@ -3359,6 +3403,17 @@
                     "version_group": {
                         "name": "brilliant-diamond-and-shining-pearl",
                         "url": "/api/v2/version-group/23/"
+                    }
+                },
+                {
+                    "level_learned_at": 11,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "/api/v2/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "legends-arceus",
+                        "url": "/api/v2/version-group/24/"
                     }
                 },
                 {
@@ -9208,6 +9263,17 @@
             },
             "version_group_details": [
                 {
+                    "level_learned_at": 34,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "/api/v2/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "legends-arceus",
+                        "url": "/api/v2/version-group/24/"
+                    }
+                },
+                {
                     "level_learned_at": 0,
                     "move_learn_method": {
                         "name": "machine",
@@ -10357,6 +10423,17 @@
                     }
                 },
                 {
+                    "level_learned_at": 18,
+                    "move_learn_method": {
+                        "name": "level-up",
+                        "url": "/api/v2/move-learn-method/1/"
+                    },
+                    "version_group": {
+                        "name": "legends-arceus",
+                        "url": "/api/v2/version-group/24/"
+                    }
+                },
+                {
                     "level_learned_at": 15,
                     "move_learn_method": {
                         "name": "level-up",
@@ -10456,13 +10533,13 @@
     },
     "sprites": {
         "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/133.png",
-        "back_female": null,
+        "back_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/133.png",
         "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/133.png",
-        "back_shiny_female": null,
+        "back_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/133.png",
         "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png",
-        "front_female": null,
+        "front_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/133.png",
         "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/133.png",
-        "front_shiny_female": null,
+        "front_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/133.png",
         "other": {
             "dream_world": {
                 "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/133.svg",

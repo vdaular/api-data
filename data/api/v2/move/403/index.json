@@ -789,6 +789,10 @@
             "url": "/api/v2/pokemon/169/"
         },
         {
+            "name": "togetic",
+            "url": "/api/v2/pokemon/176/"
+        },
+        {
             "name": "natu",
             "url": "/api/v2/pokemon/177/"
         },
@@ -835,6 +839,10 @@
         {
             "name": "ho-oh",
             "url": "/api/v2/pokemon/250/"
+        },
+        {
+            "name": "beautifly",
+            "url": "/api/v2/pokemon/267/"
         },
         {
             "name": "shiftry",
@@ -935,6 +943,14 @@
         {
             "name": "honchkrow",
             "url": "/api/v2/pokemon/430/"
+        },
+        {
+            "name": "chatot",
+            "url": "/api/v2/pokemon/441/"
+        },
+        {
+            "name": "finneon",
+            "url": "/api/v2/pokemon/456/"
         },
         {
             "name": "lumineon",
@@ -1209,7 +1225,7 @@
             "url": "/api/v2/pokemon/914/"
         },
         {
-            "name": "squawkabilly",
+            "name": "squawkabilly-green-plumage",
             "url": "/api/v2/pokemon/931/"
         },
         {
@@ -1229,7 +1245,7 @@
             "url": "/api/v2/pokemon/973/"
         },
         {
-            "name": "dudunsparce",
+            "name": "dudunsparce-two-segment",
             "url": "/api/v2/pokemon/982/"
         },
         {
@@ -1377,6 +1393,15 @@
             "version_group": {
                 "name": "sword-shield",
                 "url": "/api/v2/version-group/20/"
+            }
+        },
+        {
+            "machine": {
+                "url": "/api/v2/machine/1770/"
+            },
+            "version_group": {
+                "name": "scarlet-violet",
+                "url": "/api/v2/version-group/25/"
             }
         }
     ],

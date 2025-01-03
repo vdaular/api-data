@@ -10,6 +10,13 @@
         },
         {
             "language": {
+                "name": "fr",
+                "url": "/api/v2/language/5/"
+            },
+            "name": "Forme Avatar"
+        },
+        {
+            "language": {
                 "name": "en",
                 "url": "/api/v2/language/9/"
             },
@@ -30,6 +37,13 @@
     "is_mega": false,
     "name": "enamorus-incarnate",
     "names": [
+        {
+            "language": {
+                "name": "fr",
+                "url": "/api/v2/language/5/"
+            },
+            "name": "Amov\u00e9nus Avatar"
+        },
         {
             "language": {
                 "name": "en",
@@ -70,7 +84,7 @@
         }
     ],
     "version_group": {
-        "name": "sword-shield",
-        "url": "/api/v2/version-group/20/"
+        "name": "legends-arceus",
+        "url": "/api/v2/version-group/24/"
     }
 }
